@@ -2,8 +2,8 @@
 //  TeachMediaTests.swift
 //  TeachMediaTests
 //
-//  Created by Justin Hinson on 7/22/19.
-//  Copyright © 2019 Justin Hinson. All rights reserved.
+//  Created by The Placeholders on 7/22/19.
+//  Copyright © 2019 The Placeholders. All rights reserved.
 //
 
 import XCTest
